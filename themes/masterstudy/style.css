@@ -1,0 +1,16 @@
+/*
+	Theme Name: Elearning Imakina
+	Theme URI: http://elearning.imakina.com.ec/
+	Author: MCM - MYCODEDMIND
+	Author URI: https://mycodedmind.com/
+	Description: Un centro especializado en la formación profesional, mediante cursos y procesos de certificación permanentes de corta y larga duración, en modalidad online, que permite el acercamiento y adaptación al tiempo de los estudiantes; permitiéndoles trabajar o cuidar de su familia sin dejar de aprender y crecer profesionalmente.
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Tags: clases, cursos, educacion, centro educativo, centro estudio, tutorias, profesores, estudiantes, estudio, aprendizaje, lecciones, instructores, profesor, mentor
+	Text Domain: masterstudy
+*/
+@media (max-width: 767px) {
+    body .top_bar_info li.hidden-info {
+        display: none !important;
+    }
+}

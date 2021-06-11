@@ -1,0 +1,1021 @@
+# Translation of Plugins - eRoom &#8211; Zoom Meetings &amp; Webinar - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - eRoom &#8211; Zoom Meetings &amp; Webinar - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-30 11:58:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - eRoom &#8211; Zoom Meetings &amp; Webinar - Stable (latest release)\n"
+
+#: zoom-conference/StmZoomAdminMenus.php:139
+msgid "Meeting will be created when someone books an Appointment"
+msgstr "La reunión se creará cuando alguien haga una reserva"
+
+#: zoom-conference/StmZoomAdminMenus.php:137
+msgid "Bookit Appointment Integration"
+msgstr "Integración con Bookit Appointment"
+
+#: zoom-conference/StmZoomPostTypes.php:486
+msgid "Meeting Notification: %s"
+msgstr "Aviso de reunión: %s"
+
+#: zoom-conference/StmZoomPostTypes.php:481
+msgid "Your meeting url: "
+msgstr "La url de tu reunión:"
+
+#: zoom-conference/StmZoomPostTypes.php:480
+msgid "Hello, your meeting will begin at: %s, %s"
+msgstr "Hola, tu reunión comenzará a las: %s, %s"
+
+#: zoom-conference/StmZoomPostTypes.php:398
+msgid "Customer: %s, %s, %s. Payment via %s: %s"
+msgstr "Cliente: %s, %s, %s. Pago mediante %s: %s"
+
+#: zoom-conference/StmZoomPostTypes.php:391
+msgid "Appointment #%s - %s"
+msgstr "Reserva  #%s - %s"
+
+#: zoom-conference/StmZoomPostTypes.php:208
+#: zoom-conference/StmZoomPostTypes.php:274
+msgid "Participants video"
+msgstr "Vídeo de los participantes"
+
+#: zoom-conference/StmZoomPostTypes.php:204
+#: zoom-conference/StmZoomPostTypes.php:270
+msgid "Host video"
+msgstr "Vídeo del anfitrión"
+
+#: zoom-conference/StmZoomAdminMenus.php:192
+msgid "Upgrade to Pro"
+msgstr "Actualizar a la versión Pro"
+
+#: zoom-conference/StmZoomAdminMenus.php:188
+msgid "Settings"
+msgstr "Ajustes"
+
+#: zoom-conference/StmZoomPostTypes.php:339
+msgid "Webinar shortcode"
+msgstr "Shortcode del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:262
+msgid "Webinar password"
+msgstr "Contraseña del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:258
+msgid "Webinar duration (in min)"
+msgstr "Duración del webinar  (en minutos)"
+
+#: zoom-conference/StmZoomPostTypes.php:252
+msgid "Webinar timezone"
+msgstr "Zona horaria del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:248
+msgid "Webinar time"
+msgstr "Horario del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:244 zoom-conference/StmZoom.php:317
+msgid "Webinar date"
+msgstr "Fecha del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:239
+msgid "Webinar host"
+msgstr "Anfitrión del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:235
+msgid "Webinar agenda"
+msgstr "Agenda del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:231
+msgid "Webinar settings"
+msgstr "Ajustes del webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:119
+msgid "Search webinar"
+msgstr "Buscar webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:118
+msgid "View webinar"
+msgstr "Ver webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:117
+msgid "New webinar"
+msgstr "Nuevo webinar"
+
+#: zoom-conference/StmZoomPostTypes.php:116
+msgid "Edit webinar"
+msgstr "Editar webinar"
+
+#: zoom-conference/StmZoom.php:280
+msgid "Webinar starts in"
+msgstr "El webinar empieza en"
+
+#: zoom-conference/StmZoomPostTypes.php:113
+#: elementor/widgets/stm_zoom_webinar.php:96 vc/main.php:35
+msgid "Webinar"
+msgstr "Webinar"
+
+#: elementor/widgets/stm_zoom_webinar.php:46 vc/main.php:25
+msgid "Zoom Webinar"
+msgstr "Webinar en Zoom"
+
+#: zoom-conference/StmZoomPostTypes.php:112
+#: zoom-conference/StmZoomPostTypes.php:122
+#: zoom-conference/StmZoomAdminMenus.php:78
+#: zoom-conference/StmZoomAdminMenus.php:79
+#: elementor/widgets/stm_zoom_meetings_grid.php:102 vc/main.php:72
+msgid "Webinars"
+msgstr "Webinars"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:46 vc/main.php:79
+msgid "Zoom Meetings/Webinars Grid"
+msgstr "Cuadrícula de reuniones/webinars en Zoom"
+
+#: wp-custom-fields-theme-options/taxonomy_meta/fields/image.php:14
+msgid "Delete image"
+msgstr "Borrar imagen"
+
+#: wp-custom-fields-theme-options/helpers/file_upload.php:58
+msgid "Invalid file extension"
+msgstr "Extensión de archivo no válida"
+
+#: wp-custom-fields-theme-options/helpers/file_upload.php:47
+msgid "Please, select file"
+msgstr "Por favor, selecciona un archivo"
+
+#: wp-custom-fields-theme-options/helpers/file_upload.php:20
+msgid "Error occurred, please try again"
+msgstr "Ha ocurrido un error, por favor, inténtalo de nuevo"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/duration.php:17
+msgid "duration"
+msgstr "duración"
+
+#: zoom-conference/StmZoom.php:280
+msgid "Meeting starts in"
+msgstr "La reunión empieza en"
+
+#: zoom-conference/StmZoomAdminMenus.php:125
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: zoom-conference/StmZoom.php:342
+msgid "Join in zoom app"
+msgstr "Únete en la aplicación de Zoom"
+
+#: zoom-conference/StmZoom.php:339
+msgid "Join in browser"
+msgstr "Únete en el navegador"
+
+#: elementor/widgets/stm_zoom_meeting.php:46 vc/main.php:7
+msgid "Zoom Meeting"
+msgstr "Reunión de Zoom"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:131 vc/main.php:45
+msgid "Count of meetings"
+msgstr "Contador de reuniones"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:113 vc/main.php:51
+msgid "Meetings per row"
+msgstr "Reuniones por fila"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:100 vc/main.php:70
+msgid "Products"
+msgstr "Productos"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:96 vc/main.php:67
+msgid "Meeting type"
+msgstr "Tipo de reunión"
+
+#: templates/single/meeting_view.php:103
+msgid "Clear"
+msgstr "Vaciar"
+
+#: templates/single/meeting_view.php:102
+msgid "Join"
+msgstr "Participar"
+
+#: templates/single/meeting_view.php:27
+msgid "Guest"
+msgstr "Invitado"
+
+#: admin_templates/add_users.php:99
+msgid "Save"
+msgstr "Guardar"
+
+#: admin_templates/add_users.php:91
+msgid "User Type (Required)"
+msgstr "Tipo de usuario (obligatorio)"
+
+#: admin_templates/add_users.php:87
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: admin_templates/add_users.php:83
+msgid "First Name"
+msgstr "Nombre"
+
+#: admin_templates/add_users.php:79
+msgid "Email (required)"
+msgstr "Correo electrónico (obligatorio)"
+
+#: admin_templates/add_users.php:69
+msgid ""
+"\n"
+"                <b>Create</b> - User will get an email sent from Zoom. There is a confirmation link in this email. The user will then need to use the link to activate their Zoom account. The user can then set or change their password.<br>\n"
+"                <b>Auto Create</b> - This action is provided for the enterprise customer who has a managed domain. This feature is disabled by default because of the security risk involved in creating a user who does not belong to your domain.<br>\n"
+"                <b>Cust Create</b> - Users created via this option do not have passwords and will not have the ability to log into the Zoom Web Portal or the Zoom Client. To use this option, you must contact the ISV Platform Sales team at isv@zoom.us.<br>\n"
+"                <b>SSO Create</b> - This action is provided for the enabled “Pre-provisioning SSO User” option. A user created in this way has no password. If not a basic user, a personal vanity URL using the user name (no domain) of the provisioning email will be generated. If the user name or PMI is invalid or occupied, it will use a random number or random personal vanity URL.\n"
+"                "
+msgstr ""
+"\n"
+"                <b>Crea</b> - El usuario recibirá un correo electrónico desde Zoom. Hay un enlace de confirmción en este correo electrónico. El usuario entonces tendrá que usar el enlace para activar su cuenta de Zoom. El usuario peude configurar o crear su contraseña.<br>\n"
+"                <b>Creación automática</b> - Esta acción se facilita para el cliente de empresa que tiene un dominio gestionado. Esta característica está desactivada por defecto a causa del riesgo de seguridad implícito en la creación de un usuario que no pertenezca a tu dominio.<br>\n"
+"                <b>Creación personalizada</b> - Los usuarios creados desde esta opción no tienen contraseña y no podrán acceder al portal web de Zoom o al cliente de Zoom. Para usar esta opción debes contactar con la plataforma de ventas de ISV en isv@zoom.us.<br>\n"
+"                <b>Creación SSO</b> - Esta opción se facilita para la opción activada «Preaprovisionamiento de usuario SSO». Un usuario creado de este modo no tiene contraseña. Si no es un usuario básico se generará una URL personal aleatoria usando el nombre del usuario (sin dominio) del correo electrónico de provisionamiento. Si el  nombre o PMI del usuario están ocupados o no son válidos se usará un número aleatorio o una URL personal aleatoria."
+
+#: admin_templates/add_users.php:60
+msgid "Action (Required)"
+msgstr "Acción (obligatoria)"
+
+#: admin_templates/add_users.php:52
+msgid "Add User"
+msgstr "Añadir usuario"
+
+#: admin_templates/add_users.php:44
+msgid "You don't have permission to add a new user"
+msgstr "No tienes permisos para añadir un nuevo usuario"
+
+#: admin_templates/add_users.php:40
+msgid "Error"
+msgstr "Error"
+
+#: admin_templates/add_users.php:33
+msgid "User added successfully"
+msgstr "Usuario añadido correctamente"
+
+#: admin_templates/add_users.php:15
+msgid "Provide API key & API secret key to crete new user"
+msgstr "Facilita la clave API y la clave API secreta para crear un nuevo usuario"
+
+#: admin_templates/assign_host.php:53
+msgid "Update"
+msgstr "Actualizar"
+
+#: admin_templates/assign_host.php:27
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: admin_templates/assign_host.php:18
+msgid "Copy Host ID from users <a href=\""
+msgstr "Copia el ID de anfitrión de los usuarios <a href=\""
+
+#: admin_templates/assign_host.php:15
+msgid "For developers only"
+msgstr "Solo para desarrolladores"
+
+#: admin_templates/assign_host.php:14
+msgid "Assign Zoom host id to WordPress users"
+msgstr "Asigna un id de anfitrión de Zoom a los usuarios de WordPress"
+
+#: admin_templates/users.php:23
+msgid "Status"
+msgstr "Estado"
+
+#: admin_templates/users.php:22
+msgid "Last Client"
+msgstr "Último cliente"
+
+#: admin_templates/users.php:21
+msgid "Last login"
+msgstr "Último acceso"
+
+#: admin_templates/users.php:20
+msgid "Created on"
+msgstr "Creado el"
+
+#: admin_templates/users.php:19
+msgid "Last name"
+msgstr "Apellidos"
+
+#: admin_templates/users.php:18
+msgid "Name"
+msgstr "Nombre"
+
+#: admin_templates/users.php:17 admin_templates/assign_host.php:26
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: admin_templates/users.php:16 admin_templates/assign_host.php:28
+msgid "Host ID"
+msgstr "ID del anfitrión"
+
+#: admin_templates/users.php:10
+msgid "Delete cache"
+msgstr "Borrar caché"
+
+#: admin_templates/reports.php:36
+msgid "Meeting Minutes"
+msgstr "Minutos de la reunión"
+
+#: admin_templates/reports.php:35
+msgid "Participants"
+msgstr "Participantes"
+
+#: zoom-conference/StmZoomPostTypes.php:87
+#: zoom-conference/StmZoomPostTypes.php:97 admin_templates/reports.php:34
+#: elementor/widgets/stm_zoom_meetings_grid.php:101 vc/main.php:71
+msgid "Meetings"
+msgstr "Reuniones"
+
+#: admin_templates/reports.php:33
+msgid "New Users"
+msgstr "Nuevos usuarios"
+
+#: admin_templates/reports.php:32
+msgid "Date"
+msgstr "Fecha"
+
+#: admin_templates/reports.php:7
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin_templates/reports.php:6
+msgid "Enter year e.g. 2020"
+msgstr "Introduce el año, p.ej. 2020"
+
+#: admin_templates/reports.php:4
+msgid "Enter month e.g. 03"
+msgstr "Introduce el mes, p.ej. 03"
+
+#: wp-custom-fields-theme-options/metaboxes/components/addons.php:14
+msgid "Disable Addon"
+msgstr "Desactivar extensión"
+
+#: wp-custom-fields-theme-options/metaboxes/components/addons.php:13
+msgid "Enable Addon"
+msgstr "Activar extensión"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:50
+msgid "Update Course"
+msgstr "Actualizar curso"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:33
+msgid "Manage actions"
+msgstr "Gestionar acciones"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:32
+msgid "Course"
+msgstr "Curso"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:24
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:71
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:95
+msgid "Trash"
+msgstr "Papelera"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:23
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:67
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:94
+msgid "Draft"
+msgstr "Borrador"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:22
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:93
+msgid "Published"
+msgstr "Publicado"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:21
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:92
+msgid "All"
+msgstr "Todo"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:16
+msgid "Pause update"
+msgstr "Pausar actualización"
+
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:15
+msgid "Update All"
+msgstr "Actualizar todo"
+
+#: wp-custom-fields-theme-options/metaboxes/components/order.php:4
+msgid "Woocommerce Checkout enabled. Get order information here - %s"
+msgstr "Pago de WooCommerce activado. Consigue auqí la información del pedido - %s"
+
+#: wp-custom-fields-theme-options/metaboxes/components/udemy/search.php:44
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:61
+msgid "Publish"
+msgstr "Publicar"
+
+#: wp-custom-fields-theme-options/metaboxes/components/udemy/search.php:41
+#: wp-custom-fields-theme-options/metaboxes/components/manage_post_type.php:55
+msgid "Edit"
+msgstr "Editar"
+
+#: wp-custom-fields-theme-options/metaboxes/components/udemy/search.php:32
+msgid "Import Course"
+msgstr "Importar curso"
+
+#: wp-custom-fields-theme-options/metaboxes/components/udemy/search.php:11
+msgid "Actions"
+msgstr "Acciones"
+
+#: wp-custom-fields-theme-options/metaboxes/components/udemy/search.php:10
+msgid "Course ID"
+msgstr "ID del curso"
+
+#: wp-custom-fields-theme-options/metaboxes/components/udemy/search.php:9
+msgid "Title"
+msgstr "Título"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:106
+msgid "Add new question"
+msgstr "Añadir nueva pregunta"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:104
+msgid "Enter question title"
+msgstr "Introducir el título de la pregunta"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:89
+msgid "Search questions"
+msgstr "Buscar preguntas"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:71
+msgid "Question Bank"
+msgstr "Banco de preguntas"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:65
+msgid "Fill the Gap"
+msgstr "Rellena el espacio"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:59
+msgid "Keywords"
+msgstr "Palabras clave"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:53
+msgid "Item Match"
+msgstr "Coincidencia del elemento"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:47
+msgid "True or False"
+msgstr "Verdadero o falso"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:41
+msgid "Multi choice"
+msgstr "Elección múltiple"
+
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:35
+msgid "Single choice"
+msgstr "Elección única"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:194
+msgid "Add Answer"
+msgstr "Añadir respuesta"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:191
+msgid "Enter new Answer"
+msgstr "Introduce una nueva respuesta"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:175
+msgid "Number of questions to show"
+msgstr "Número de preguntas a mostrar"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:173
+msgid "Select number of questions."
+msgstr "Selecciona el número de preguntas."
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:154
+msgid "Select category"
+msgstr "Seleccionar categoría"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:150
+msgid "Select categories to show questions from."
+msgstr "Selecciona las categorías de las que se mostrarán las preguntas."
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:143
+msgid ""
+"This type of question - not a question itself. \n"
+"                        This Bank - just a group of questions from certain category. \n"
+"                        Questions from category will be shown in a separate block, with group name you write above."
+msgstr ""
+"Este tipo de pregunta - no es una pregunta en sí misma.\n"
+"Este banco - simplemente un grupo de preguntas de una cierta categoría.\n"
+"Las preguntas de la categoría se mostrarán en un bloque separado, con el nombre de grupo que escribas arriba."
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:120
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:127
+msgid "Enter text, separate answers with \"|\" symbol"
+msgstr "Introduce texto, separando las respuestas con el símbolo «|»"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:104
+msgid "Keyword #"
+msgstr "Palabra clave #"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:81
+msgid "Match"
+msgstr "Coincidencia"
+
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:17
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:40
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:87
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:108
+msgid "Answer explanation (Will be shown in \"Show Answers\" section)"
+msgstr "Explicación de la respuesta (se mostrará en la sección de «Mostrar respuestas»)"
+
+#: wp-custom-fields-theme-options/metaboxes/components/multimedia.php:26
+msgid "Bulk upload"
+msgstr "Subida en lotes"
+
+#: wp-custom-fields-theme-options/metaboxes/components/multimedia.php:24
+msgid "Add media"
+msgstr "Añadir medios"
+
+#: wp-custom-fields-theme-options/metaboxes/components/multimedia.php:16
+msgid "Do you really want to delete this media?"
+msgstr "¿Estás seguro de que quieres borrar este medio?"
+
+#: wp-custom-fields-theme-options/metaboxes/components/multimedia.php:7
+msgid "Media URL"
+msgstr "URL del medio"
+
+#: wp-custom-fields-theme-options/metaboxes/components/faq.php:22
+msgid "Enter FAQ answer"
+msgstr "Introduce una respuesta de las FAQ"
+
+#: wp-custom-fields-theme-options/metaboxes/components/faq.php:21
+msgid "Enter FAQ question"
+msgstr "Intorduce una pregunta de las FAQ"
+
+#: wp-custom-fields-theme-options/metaboxes/components/faq.php:17
+#: wp-custom-fields-theme-options/metaboxes/components/answers.php:77
+msgid "Question"
+msgstr "Pregunta"
+
+#: wp-custom-fields-theme-options/metaboxes/components/faq.php:9
+msgid "Add new FAQ item"
+msgstr "Añadir un nuevo elemento de las FAQ"
+
+#: wp-custom-fields-theme-options/metaboxes/metabox-display.php:65
+msgid "Available in <a href=\"https://stylemixthemes.com/plugins/masterstudy-pro/\" target=\"_blank\">Pro Version</a>"
+msgstr "Disponible en la <a href=\"https://stylemixthemes.com/plugins/masterstudy-pro/\" target=\"_blank\">versión Pro</a>"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:114
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:87
+msgid "Enter new assignment title"
+msgstr "Introduce el título de la nueva tarea"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:98
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:71
+msgid "Enter new quiz title"
+msgstr "Introduce el título del nuevo cuestionario"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:85
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:58
+msgid "Enter new lesson title"
+msgstr "Introduce el título de la nueva lección"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:70
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:43
+msgid "Enter new section title"
+msgstr "Introduce el título de la nueva sección"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:60
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:33
+msgid "Add course data"
+msgstr "Añadir datos al curso"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:52
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:25
+msgid "Search lesson or quiz"
+msgstr "Buscar lección o cuestionario"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/curriculum.php:44
+#: wp-custom-fields-theme-options/metaboxes/components/questions.php:19
+#: wp-custom-fields-theme-options/metaboxes/components/stm-curriculum.php:17
+msgid "Do you really want to delete this item?"
+msgstr "¿Seguro que quieres borrar este elemento?"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/udemy/search.php:40
+msgid "Importing Course"
+msgstr "Importando curso"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:129
+msgid "Live"
+msgstr "En vivo"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:128
+msgid "Sandbox"
+msgstr "Modo de pruebas"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:125
+msgid "United States dollar"
+msgstr "Dólar estadounidense"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:124
+msgid "Thai baht"
+msgstr "Baht tailandés"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:123
+msgid "Swiss franc"
+msgstr "Franco suizo"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:122
+msgid "Swedish krona"
+msgstr "Corona sueca"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:121
+msgid "Singapore dollar"
+msgstr "Dólar de Singapur"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:120
+msgid "Russian ruble"
+msgstr "Rublo ruso"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:119
+msgid "Pound sterling"
+msgstr "Libra esterlina"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:118
+msgid "Polish złoty"
+msgstr "Złoty polaco"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:117
+msgid "Philippine peso"
+msgstr "Peso filipino"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:116
+msgid "Norwegian krone"
+msgstr "Corona noruega"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:115
+msgid "New Zealand dollar"
+msgstr "Dólar neozelandés"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:114
+msgid "New Taiwan dollar 1"
+msgstr "Nuevo dólar taiwanés 1"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:113
+msgid "Mexican peso"
+msgstr "Peso mexicano"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:112
+msgid "Malaysian ringgit 2\t"
+msgstr "Ringgit malayo 2\t"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:111
+msgid "Japanese yen 1"
+msgstr "Yen japonés 1"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:110
+msgid "Israeli new shekel"
+msgstr "Nuevo Sheqel israelí"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:109
+msgid "Indian rupee"
+msgstr "Rupia india"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:108
+msgid "Hungarian forint 1"
+msgstr "Florín húngaro 1"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:107
+msgid "Hong Kong dollar"
+msgstr "Dólar de Hong Kong"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:106
+msgid "Euro"
+msgstr "Euro"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:105
+msgid "Danish krone"
+msgstr "Corona danesa"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:104
+msgid "Czech koruna"
+msgstr "Corona checa"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:103
+msgid "Canadian dollar"
+msgstr "Dólar canadiense"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:102
+msgid "Brazilian real"
+msgstr "Real brasileño"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:101
+msgid "Australian dollar"
+msgstr "Dólar australiano"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:100
+msgid "Select Currency code"
+msgstr "Selecciona el código de moneda"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:93
+msgid "Stripe currency code"
+msgstr "Códito de moneda de Stripe"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:85
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:81
+msgid "Publishable key"
+msgstr "Clave publicable"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:77
+msgid "Stripe"
+msgstr "Stripe"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:67
+msgid "PayPal mode"
+msgstr "Modo PayPal"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:61
+msgid "Currency code"
+msgstr "Código de moneda"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:55
+msgid "PayPal Email"
+msgstr "Correo electrónico de PayPal"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:51
+msgid "Paypal"
+msgstr "Paypal"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:41
+msgid "Swift"
+msgstr "Swift"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:37
+msgid "Bank name"
+msgstr "Nombre del banco"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:33
+msgid "Holder name"
+msgstr "Nombre del titular"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:29
+msgid "Account number"
+msgstr "Número de cuenta"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:25
+msgid "Wire Transfer"
+msgstr "Transferencia bancaria"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:19
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:45
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:71
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:89
+msgid "Payment method description"
+msgstr "Descripción del método de pago"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/payments.php:15
+msgid "Offline payment"
+msgstr "Pago offline"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/answers.php:153
+msgid "False"
+msgstr "Falso"
+
+#: wp-custom-fields-theme-options/metaboxes/components_js/answers.php:149
+#: wp-custom-fields-theme-options/metaboxes/components_js/answers.php:158
+msgid "True"
+msgstr "Verdadero"
+
+#: wp-custom-fields-theme-options/metaboxes/metabox.php:45
+msgid "Choose User"
+msgstr "Seleccionar usuario"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:55
+msgid "Make default"
+msgstr "Establecer como por defecto"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:54
+msgid "Default"
+msgstr "Por defecto"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:52
+msgid "Enable Payment method"
+msgstr "Activar el método de pago"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:51
+msgid "Disable Payment method"
+msgstr "Desactivar el método de pago"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:49
+msgid "Loading"
+msgstr "Cargando"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:39
+msgid "Payment method for payout"
+msgstr "Método de pago para los pagos"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:35
+msgid "Add in wp-config.php"
+msgstr "Añadir en wp-config.php"
+
+#: wp-custom-fields-theme-options/metaboxes/fields/payout.php:30
+msgid "Cron At 00:00 on day-of-month 1."
+msgstr "Cron a las 00:00 el primer día del mes."
+
+#: wp-custom-fields-theme-options/taxonomy_meta/fields/image.php:48
+msgid "Use this media"
+msgstr "Usar este medio"
+
+#: wp-custom-fields-theme-options/taxonomy_meta/fields/image.php:46
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr "Selecciona o sube los medios que prefieras "
+
+#: wp-custom-fields-theme-options/taxonomy_meta/fields/image.php:11
+msgid "Add image"
+msgstr "Añadir imagen"
+
+#: wp-custom-fields-theme-options/settings/settings.php:54
+msgid "Choose Page"
+msgstr "Elegir página"
+
+#: wp-custom-fields-theme-options/settings/view/main.php:34
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: zoom-conference/StmZoomPostTypes.php:220
+#: zoom-conference/StmZoomPostTypes.php:286
+msgid "Alternative hosts"
+msgstr "Anfitriones alternativos"
+
+#: zoom-conference/StmZoomPostTypes.php:216
+#: zoom-conference/StmZoomPostTypes.php:282
+msgid "Enforce Login"
+msgstr "Forzar el acceso"
+
+#: zoom-conference/StmZoomPostTypes.php:212
+#: zoom-conference/StmZoomPostTypes.php:278
+msgid "Mute Participants upon entry"
+msgstr "Silenciar a los participantes al entrar"
+
+#: zoom-conference/StmZoomPostTypes.php:200
+#: zoom-conference/StmZoomPostTypes.php:266
+msgid "Join Before Host"
+msgstr "Unirse antes que el anfitrión"
+
+#: zoom-conference/StmZoomPostTypes.php:196
+msgid "Meeting password"
+msgstr "Contraseña de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:192
+msgid "Meeting duration (in min)"
+msgstr "Duración de la reunión (en minutos)"
+
+#: zoom-conference/StmZoomPostTypes.php:186
+msgid "Meeting timezone"
+msgstr "Zona horaria de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:182
+msgid "Meeting time"
+msgstr "Horario de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:178 zoom-conference/StmZoom.php:317
+msgid "Meeting date"
+msgstr "Fecha de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:173
+msgid "Meeting host"
+msgstr "Anfitrión de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:169
+msgid "Meeting agenda"
+msgstr "Agenda de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:165
+msgid "Meeting settings"
+msgstr "Ajustes de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:147
+#: zoom-conference/StmZoomPostTypes.php:153
+msgid "Post settings"
+msgstr "Ajustes de la entrada"
+
+#: zoom-conference/StmZoomPostTypes.php:95
+#: zoom-conference/StmZoomPostTypes.php:96
+#: zoom-conference/StmZoomPostTypes.php:120
+#: zoom-conference/StmZoomPostTypes.php:121
+msgid "Not found"
+msgstr "No encontrado"
+
+#: zoom-conference/StmZoomPostTypes.php:94
+msgid "Search meeting"
+msgstr "Buscar reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:93
+msgid "View meeting"
+msgstr "Ver reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:92
+msgid "New meeting"
+msgstr "Nueva reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:91
+msgid "Edit meeting"
+msgstr "Editar reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:89
+#: zoom-conference/StmZoomPostTypes.php:90
+#: zoom-conference/StmZoomPostTypes.php:114
+#: zoom-conference/StmZoomPostTypes.php:115
+msgid "Add new"
+msgstr "Añadir nueva"
+
+#: zoom-conference/StmZoomAdminMenus.php:119
+msgid "API Secret Key"
+msgstr "Clave secreta de la API"
+
+#: zoom-conference/StmZoomAdminMenus.php:115
+msgid "Please follow this <a href=\"https://support.stylemixthemes.com/manuals/eroom/#how-to-obtain-apis\" target=\"_blank\">guide</a> to generate API values from your Zoom account"
+msgstr "Por favor, sigue esta <a href=\"https://support.stylemixthemes.com/manuals/eroom/#how-to-obtain-apis\" target=\"_blank\">guía</a> para generar los valores de la API desde tu cuenta de Zoom"
+
+#: zoom-conference/StmZoomAdminMenus.php:113
+msgid "API key"
+msgstr "Clave API"
+
+#: zoom-conference/StmZoomAdminMenus.php:109
+msgid "Main settings"
+msgstr "Ajustes principales"
+
+#: zoom-conference/StmZoomAdminMenus.php:71
+msgid "Assign host id"
+msgstr "Asignar id de anfitrión"
+
+#: zoom-conference/StmZoomAdminMenus.php:66 admin_templates/reports.php:2
+msgid "Reports"
+msgstr "Informes"
+
+#: zoom-conference/StmZoomAdminMenus.php:61
+msgid "Add user"
+msgstr "Añadir usuario"
+
+#: zoom-conference/StmZoomAdminMenus.php:56 admin_templates/users.php:8
+msgid "Users"
+msgstr "Usuarios"
+
+#: zoom-conference/StmZoom.php:334
+msgid "Password: "
+msgstr "Contraseña:"
+
+#: zoom-conference/StmZoom.php:72
+msgid "Seconds"
+msgstr "Segundos"
+
+#: zoom-conference/StmZoom.php:71
+#: wp-custom-fields-theme-options/metaboxes/fields/duration.php:24
+msgid "Minutes"
+msgstr "Minutos"
+
+#: zoom-conference/StmZoom.php:70
+#: wp-custom-fields-theme-options/metaboxes/fields/duration.php:25
+msgid "Hours"
+msgstr "Horas"
+
+#: zoom-conference/StmZoom.php:69
+#: wp-custom-fields-theme-options/metaboxes/fields/duration.php:26
+msgid "Days"
+msgstr "Días"
+
+#: zoom-conference/StmZoomPostTypes.php:322
+msgid "Meeting shortcode"
+msgstr "Shortcode de la reunión"
+
+#: zoom-conference/StmZoomPostTypes.php:88
+#: elementor/widgets/stm_zoom_meeting.php:96 vc/main.php:17
+msgid "Meeting"
+msgstr "Reunión"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:88
+#: elementor/widgets/stm_zoom_webinar.php:88
+#: elementor/widgets/stm_zoom_meeting.php:88 vc/main.php:12 vc/main.php:30
+#: vc/main.php:84
+msgid "Content"
+msgstr "Contenido"
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Description of the plugin
+msgid "eRoom Zoom Meetings & Webinar WordPress Plugin provides you with great functionality of managing Zoom meetings, scheduling options, and users directly from your WordPress dashboard."
+msgstr "El plugin eRoom Zoom Meetings & Webinar WordPress te ofrece la fantástica funcionalidad de gestionar reuniones con Zoom, con opciones de programación y de gestión de usuarios desde el escritorio de tu WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/zoom-video-conference/"
+msgstr "https://es.wordpress.org/plugins/zoom-video-conference/"
+
+#. Plugin Name of the plugin
+msgid "eRoom - Zoom Meetings & Webinar"
+msgstr "eRoom - Zoom Meetings & Webinar"
